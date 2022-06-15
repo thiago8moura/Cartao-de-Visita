@@ -1,0 +1,29 @@
+.card{
+    width: 400px;
+    height: 200px;
+    padding: 1px 20px ;
+    background: url('../Assets/imagemcartao.png') no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+    box-sizing: border-box;
+
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.Instagram{
+    list-style: url(./Assets/Insta.png);
+
+}
+
+.LinkedIn{
+   list-style: url(./Assets/LinkedIn.png)
+   
+
+}
+    
